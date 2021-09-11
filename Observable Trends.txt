@@ -1,0 +1,7 @@
+### Observable Trends
+
+1. The Capomulin and Ramicane regimens appear to be more effective at reducing tumor volumes in mice compared with the Infubinol and Ceftamin regimens.
+
+2. The Capomulin drug regimen appears to reduce tumor volumes over time in mice.
+
+3. A strong poisitve correlation appears to exist between a mouse's weight and its average tumor volume.
